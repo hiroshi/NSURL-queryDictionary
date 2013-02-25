@@ -1,4 +1,4 @@
-NSURL-queryDictionary
+NSURL+queryDictionary
 =====================
 
 ## Podfile
