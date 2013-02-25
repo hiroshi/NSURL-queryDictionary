@@ -1,0 +1,4 @@
+NSURL-queryDictionary
+=====================
+
+NSURL+queryDictionary
